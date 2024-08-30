@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+![count](https://count.getloli.com/get/@saigyoujiyusora) 
+
+![stats](https://vercel-deploy-org.vercel.app/api?username=saigyoujiyusora&count_private=true&show_icons=true&role=OWNER)
