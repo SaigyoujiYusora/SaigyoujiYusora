@@ -18,3 +18,7 @@ Here are some ideas to get you started:
 ![count](https://count.getloli.com/get/@saigyoujiyusora) 
 
 ![stats](https://vercel-deploy-org.vercel.app/api?username=saigyoujiyusora&count_private=true&show_icons=true&role=OWNER)
+
+![stats](https://vercel-deploy-org.vercel.app/api/wakatime?username=yusora\&layout=compact)
+
+![stats](https://vercel-deploy-org.vercel.app/api/top-langs/?username=saigyoujiyusora&layout=donut)
