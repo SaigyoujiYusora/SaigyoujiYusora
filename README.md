@@ -21,4 +21,4 @@ Here are some ideas to get you started:
 
 ![stats](https://vercel-deploy-org.vercel.app/api/wakatime?username=yusora\&layout=compact)
 
-![stats](https://vercel-deploy-org.vercel.app/api/top-langs/?username=saigyoujiyusora&layout=donut)
+![stats](https://vercel-deploy-org.vercel.app/api/top-langs/?username=saigyoujiyusora&layout=donut&exclude_repo=vercel-deploy-org,SaigyoujiYusora.github.io)
